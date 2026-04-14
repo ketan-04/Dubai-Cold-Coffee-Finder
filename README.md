@@ -1,11 +1,5 @@
 # ☕ Dubai Cold Coffee Finder
 
-## Preview
-
-![Main App View](preview-1.png)
-![Analytics & Filters](preview-2.png)
-
----
 
 ## About this project
 
